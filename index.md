@@ -19,7 +19,8 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 
 My first milestone was putting together the outside of the car chasis and screwing the supprts onto it and setting up the motors. Next I did some side projects to get used to using the ESP32 and learned more about coding on Arduino. I had to download some libraries onot Arduino like TwoWayESP and TwoWayJSON to make sure my Arduino code would connect to the ESP32, Ardunio is a coding app which uses C++. I had a lot of trouble gettng the ESP32 to connect to my code and get my motors running but I eventually got them fixed. After I got all that set up I got to working on my motor drivers and connecting the motors to them. Along the way I had lots of issues with securely attaching the wires or pluging into the wrong ports. I plugged in all the wires and got all four motors to spin.
-Heres an example of some of te coding I did:
+
+(Heres an example of some of te coding I did):
 
                                                   void loop() {
                                                   // Move the DC motor (A, B) forward at maximum speed
