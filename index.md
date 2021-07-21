@@ -15,6 +15,9 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 
 My second milstone was to get the accelerometer to print values, In order to do this I would input a line of code that would track the X,Y, and Z axis of the accelerometer. I studied the Y axis to see what angles would be the forward, backward, and stopped for the car. I also connected my two ESP32 together so that my accelerometer would connect to my car chasis.
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/87200410/126528421-558762a8-95cc-4a37-8ec9-5aef72025f90.png" alt="COM4 values">
+</p>
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
@@ -28,5 +31,6 @@ My first milestone was putting together the outside of the car chassis and screw
                                                   // Move the DC motor (A, B) forward at maximum speed
                                                   Serial.println("Moving Forward");
                                                   digitalWrite(motor1Pin1, LOW);
-                                                  digitalWrite(motor1Pin2, HIGH);
-[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626886081/video_to_markdown/images/youtube--bFIKQoxqm6g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bFIKQoxqm6g "Milestone 1")
+ <p align="center">                                                 digitalWrite(motor1Pin2, HIGH);
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626886081/video_to_markdown/images/youtube--bFIKQoxqm6g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bFIKQoxqm6g "Milestone 1") 
+ </p>
