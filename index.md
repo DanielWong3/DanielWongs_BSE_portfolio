@@ -1,9 +1,9 @@
 ﻿# Gesture Controlled car
 I am working on a hand gesture controlled car
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|
-| Daniel Wong | Berkeley High School | Electrical Engineering | Incoming Freshman | {:target="_blank" rel="noopener"}
+                                        | **Engineer** | **School** | **Area of Interest** | **Grade** |
+                                                            |:--:|:--:|:--:|:--:|
+                      | Daniel Wong | Berkeley High School | Electrical Engineering | Incoming Freshman | {:target="_blank" rel="noopener"}
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
