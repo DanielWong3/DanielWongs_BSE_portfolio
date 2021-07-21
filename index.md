@@ -5,7 +5,7 @@ I am working on a hand gesture controlled car
                                                          
                              | Daniel Wong | Berkeley High School | Electrical Engineering | Incoming Freshman | 
              
-![IMG_5981](https://user-images.githubusercontent.com/87200410/126531326-9f086bf5-2670-4c66-a011-5d42b12e95bb.jpg)
+![Headstone Image](https://user-images.githubusercontent.com/87200410/126531426-57424211-d1bd-4591-8b19-f3d52ecbad05.jpg)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
