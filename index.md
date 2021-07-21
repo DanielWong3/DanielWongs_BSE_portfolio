@@ -8,7 +8,16 @@ I am working on a hand gesture controlled car
 ![Headstone Image](https://user-images.githubusercontent.com/87200410/126531426-57424211-d1bd-4591-8b19-f3d52ecbad05.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was to have a functioning car that could spin and move in different directions. I did a lot of coding and trial and error to get the motors to spin and go different directions. A problem that I faced during this was that not all four of my motors were spinning becaue my 9 volt battery because it wasn't strong enough to ppower all four, so I swithced from the battery to plugging into a outlet in my wall through my arduino uno.
+
+                                                             else if (message == "Righ") {
+                                                             Serial.println("Right");
+                                                             digitalWrite(motor1Pin1, LOW);
+                                                             digitalWrite(motor1Pin2, HIGH);
+                                                             analogWrite(enable1Pin, 220);
+                                                             digitalWrite(motor2pin1, HIGH);
+                                                             digitalWrite(motor2pin2, LOW);
+                                                             analogWrite(enable2pin, 220);
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone")
 
