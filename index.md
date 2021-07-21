@@ -29,4 +29,4 @@ My first milestone was putting together the outside of the car chassis and screw
                                                   Serial.println("Moving Forward");
                                                   digitalWrite(motor1Pin1, LOW);
                                                   digitalWrite(motor1Pin2, HIGH);
-<img align="right" width="100" height="100" src="https://youtu.be/bFIKQoxqm6g">
+[![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626886081/video_to_markdown/images/youtube--bFIKQoxqm6g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bFIKQoxqm6g "Milestone 1")
