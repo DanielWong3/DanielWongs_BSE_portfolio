@@ -15,8 +15,10 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # Second Milestone
 
 My second milstone was to get the accelerometer to print values, In order to do this I would input a line of code that would track the X,Y, and Z axis of the accelerometer. I studied the Y axis to see what angles would be the forward, backward, and stopped for the car. I also connected my two ESP32 together so that my accelerometer would connect to my car chasis.
-<p align="left"> <img width="500" src="https://user-images.githubusercontent.com/87200410/126528858-5a2c9187-dba3-44c5-b68e-1837aab5b328.png" alt="COM4 values"></p>
-<p align="right"> <img width="500" src="https://user-images.githubusercontent.com/87200410/126528560-e0435ef5-b0ea-422d-a6ed-eb7d1282f280.jpg" alt="Schematics"></p>
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/87200410/126528858-5a2c9187-dba3-44c5-b68e-1837aab5b328.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/87200410/126528560-e0435ef5-b0ea-422d-a6ed-eb7d1282f280.jpg" width="100" /> 
+</p>
 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
