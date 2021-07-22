@@ -1,9 +1,9 @@
 ﻿# Gesture Controlled car
 I am working on a hand gesture controlled car
 
-                             | Engineer    |        School        |    Area of Interest    |       Grade       |
+              | Engineer    |        School        |    Area of Interest    |       Grade       |
                                                          
-                             | Daniel Wong | Berkeley High School | Electrical Engineering | Incoming Freshman | 
+              | Daniel Wong | Berkeley High School | Electrical Engineering | Incoming Freshman | 
              
 ![Headstone Image](https://user-images.githubusercontent.com/87200410/126531426-57424211-d1bd-4591-8b19-f3d52ecbad05.jpg)
   
