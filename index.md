@@ -29,8 +29,7 @@ My second milstone was to get the accelerometer to start printing values like ve
   <img src="https://user-images.githubusercontent.com/87200410/126529318-a3518841-7929-412a-bc69-7075557a8c79.png" width="500" /> 
 </p>
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone")
-# First Milestone
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626978558/video_to_markdown/images/youtube--IZBxwmPVjPQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=IZBxwmPVjPQ "Milestone 2")
 
 My first milestone was putting together the outside of the car chassis and screwing the supports onto it and setting up the motors. Next I did some side projects to get used to using the ESP32 and learned more about coding on Arduino. I had to download some libraries into Arduino like TwoWayESP and TwoWayJSON to make sure my Arduino code would connect to the ESP32. Ardunio is a coding app which uses C++. I had a lot of trouble getting the ESP32 to connect to my code and get my motors running but I eventually got them fixed. After I got all that set up I got to working on my motor drivers and connecting the motors to them. Along the way I had lots of issues with securely attaching the wires or plugging into the wrong ports. I plugged in all the wires and got all four motors to spin.
 
