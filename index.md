@@ -26,7 +26,7 @@ My final milestone was to have a functioning car that could spin and move in dif
 
 My second milstone was to get the accelerometer to start printing values like velocity,tempature, and XYZ. In order to do this I would input a line of code that would track the X,Y, and Z axis of the accelerometer. For my project I focused on the Y axis, next I connected my two ESPs through a MAC adress so the accelerometer values would connect to the motors. uring this part of my project I faced many issues eith ther accelerometer and the ESPs, sometimes when I tried to get values I would instead get weird gibberish to show up. Here are some exmaples of my schematics and values.
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/87200410/126537875-4e5be1fb-e9c5-44cc-ad04-6a87a548ebb5.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/87200410/126537875-4e5be1fb-e9c5-44cc-ad04-6a87a548ebb5.png" width="300" />
   <img src="https://user-images.githubusercontent.com/87200410/126529318-a3518841-7929-412a-bc69-7075557a8c79.png" width="300" /> 
 </p>
 
