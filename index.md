@@ -43,13 +43,13 @@ My first milestone was putting together the outside of the car chassis and screw
 
 (Here's an example of some of the coding I did):
 
-
+ ```c++
     void loop() {
     // Move the DC motor (A, B) forward at maximum speed
     Serial.println("Moving Forward");
     digitalWrite(motor1Pin1, LOW);
     digitalWrite(motor1Pin2, HIGH);
-                                                  
+ ```                                                 
                                                
  [![Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626886081/video_to_markdown/images/youtube--bFIKQoxqm6g-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/bFIKQoxqm6g "Milestone 1") 
 
