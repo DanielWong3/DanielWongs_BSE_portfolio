@@ -17,14 +17,14 @@ My final milestone was to have a functioning car that could spin and move in dif
 
 (Here is what some of my code looked like)
  ```c++
- if (y >= 300 && y <= 340) {                    } else {
-    Serial.println("Forward");                        Serial.println("Stop");
-    digitalWrite(motor1Pin1, LOW);                    digitalWrite(motor1Pin1, LOW);
-    digitalWrite(motor1Pin2, HIGH);                   digitalWrite(motor1Pin2, LOW);
-    analogWrite(enable1Pin, 220);                     analogWrite(enable1Pin, 220);
-    digitalWrite(motor2pin1, LOW);                    digitalWrite(motor2pin1, LOW);
-    digitalWrite(motor2pin2, HIGH);                   digitalWrite(motor2pin2, LOW);
-    analogWrite(enable2pin, 220);                     analogWrite(enable2pin, 220);
+ if (y >= 300 && y <= 340) {                 } else {
+    Serial.println("Forward");                     Serial.println("Stop");
+    digitalWrite(motor1Pin1, LOW);                 digitalWrite(motor1Pin1, LOW);
+    digitalWrite(motor1Pin2, HIGH);                digitalWrite(motor1Pin2, LOW);
+    analogWrite(enable1Pin, 220);                  analogWrite(enable1Pin, 220);
+    digitalWrite(motor2pin1, LOW);                 digitalWrite(motor2pin1, LOW);
+    digitalWrite(motor2pin2, HIGH);                digitalWrite(motor2pin2, LOW);
+    analogWrite(enable2pin, 220);                  analogWrite(enable2pin, 220);
 ```
                                                             
 [![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1627057226/video_to_markdown/images/youtube--KyiFGd59Ngk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KyiFGd59Ngk "Milestone 3")
