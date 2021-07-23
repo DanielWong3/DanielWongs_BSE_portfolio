@@ -13,29 +13,19 @@ These past 3 weeks I really enjoyed working on this project and working around p
 [![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1627059684/video_to_markdown/images/youtube--tBOreYkCQJI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tBOreYkCQJI "Demo Night")
   
 # Final Milestone
-My final milestone was to have a functioning car that could spin and move in different directions. I did a lot of coding and trial and error to get the motors to spin and go different directions, and I did get a functioning car but because there were some issues with my car I had to do some last minute changes to it. A problem that I faced during this was that not all four of my motors were spinning because my 9 volt battery because it wasn't strong enough to power all four, so I switched from the battery to plugging into a outlet in my wall through my arduino uno. Another problem I had was my second ESP was broken and I didn't have enough time by demo night to get the ESP so I only used one ESP, this meant that my accelerometer was stuck to my car and that I had to merge both of Receiver and Sender codes into one. The code below is a IF statement. What the if statement does is that when I tilt my accelerometer a certain number of degrees and they are between 300 and 340 degrees then the motors will start to spin. The code on the bottom has no range of numbers because if the degrees the accelerometer istiled doesn't match any range of numbers then the motors wont spin.
+My final milestone was to have a functioning car that could spin and move in different directions. I did a lot of coding and trial and error to get the motors to spin and go different directions, and I did get a functioning car but because there were some issues with my car I had to do some last minute changes to it. A problem that I faced during this was that not all four of my motors were spinning because my 9 volt battery because it wasn't strong enough to power all four, so I switched from the battery to plugging into a outlet in my wall through my arduino uno. Another problem I had was my second ESP was broken and I didn't have enough time by demo night to get the ESP so I only used one ESP, this meant that my accelerometer was stuck to my car and that I had to merge both of Receiver and Sender codes into one. The code on the left is a IF statement. What the if statement does is that when I tilt my accelerometer a certain number of degrees and they are between 300 and 340 degrees then the motors will start to spin. The code on the right has no range of numbers because if the degrees the accelerometer istiled doesn't match any range of numbers then the motors wont spin.
 
 (Here is what some of my code looked like)
  ```c++
- if (y >= 300 && y <= 340) {
-    Serial.println("Forward");
-    digitalWrite(motor1Pin1, LOW);
-    digitalWrite(motor1Pin2, HIGH);
-    analogWrite(enable1Pin, 220);
-    digitalWrite(motor2pin1, LOW);
-    digitalWrite(motor2pin2, HIGH);
-    analogWrite(enable2pin, 220);
+ if (y >= 300 && y <= 340) {                           } else {
+    Serial.println("Forward");                               Serial.println("Stop");
+    digitalWrite(motor1Pin1, LOW);                           digitalWrite(motor1Pin1, LOW);
+    digitalWrite(motor1Pin2, HIGH);                          digitalWrite(motor1Pin2, LOW);
+    analogWrite(enable1Pin, 220);                            analogWrite(enable1Pin, 220);
+    digitalWrite(motor2pin1, LOW);                           digitalWrite(motor2pin1, LOW);
+    digitalWrite(motor2pin2, HIGH);                          digitalWrite(motor2pin2, LOW);
+    analogWrite(enable2pin, 220);                            analogWrite(enable2pin, 220);
 ```
-```c++
-  } else {
-       Serial.println("Stop");
-      digitalWrite(motor1Pin1, LOW);
-      digitalWrite(motor1Pin2, LOW);
-      analogWrite(enable1Pin, 220);
-      digitalWrite(motor2pin1, LOW);
-      digitalWrite(motor2pin2, LOW);
-      analogWrite(enable2pin, 220);
- ```
                                                             
 [![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1627057226/video_to_markdown/images/youtube--KyiFGd59Ngk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=KyiFGd59Ngk "Milestone 3")
 
