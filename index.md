@@ -8,7 +8,7 @@ I am working on a hand gesture controlled car
 ![Headstone Image](https://user-images.githubusercontent.com/87200410/126531426-57424211-d1bd-4591-8b19-f3d52ecbad05.jpg)
 
 # Reflection
-These past 3 weeks I really enjoyed working on this project and working around problems in my coding and connections. Even though engineering can be very frustrtating sometimes I sitll had lots of fun, and being able to see your end result was so satisfying. learning new skills such as solerding and learning about Motor drivers was very interesting and a little bit scary sometimes, but as long as your smart and safe then you will be fine. After getting a good glimpse at what engineering is I think I will definitely do more engineering in the future. 
+These past 3 weeks I really enjoyed working on this project and working around problems in my coding and connections. Even though engineering can be very frustrtating sometimes I sitll had lots of fun. learning new skills such as solerding and learning about Motor drivers was very interesting and a little bit scary sometimes, but as long as your smart and safe then you will be fine. After getting a good glimpse at what engineering is I think I will definitely do more engineering in the future. 
 
 [![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1627059684/video_to_markdown/images/youtube--tBOreYkCQJI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=tBOreYkCQJI "Demo Night")
   
