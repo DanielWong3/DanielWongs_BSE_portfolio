@@ -1,5 +1,4 @@
 ﻿# Gesture Controlled car
-I am working on a hand gesture controlled car
 
   | Engineer   |        School       |    Area of Interest   |       Grade      |
                                                          
