@@ -9,7 +9,7 @@ I am working on a hand gesture controlled car
   
 # Final Milestone
 My final milestone was to have a functioning car that could spin and move in different directions. I did a lot of coding and trial and error to get the motors to spin and go different directions. A problem that I faced during this was that not all four of my motors were spinning becaue my 9 volt battery because it wasn't strong enough to ppower all four, so I swithced from the battery to plugging into a outlet in my wall through my arduino uno.
- else if (message == "Righ") {
+
  
     Serial.println("Right");
     digitalWrite(motor1Pin1, LOW);
